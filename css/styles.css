@@ -2,3 +2,22 @@
   margin-left: 5px;
   margin-right: 5px;
 }
+
+#left {
+  float: left;
+  width: 50%;
+}
+
+#left2 {
+  float:left;
+  width: 40%;
+}
+
+.right {
+  float:right;
+  width: 40%;
+}
+
+.nav nav-tabs.right {
+  float: right;
+}
